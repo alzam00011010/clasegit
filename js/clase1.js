@@ -1,2 +1,2 @@
 var cadena = 'La revolución no será televisada.';
-var t = 2;
+var t = 5;
