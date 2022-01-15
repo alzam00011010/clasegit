@@ -1,2 +1,2 @@
-var cadena = 'La revolución no será televisada.';
+var cadena = 'Estos son cambios con ramas en git';
 windows.alert(cadena);
