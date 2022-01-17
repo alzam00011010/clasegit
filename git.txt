@@ -1,0 +1,25 @@
+
+git init 
+git add .
+git commit -m "version #"
+
+git log archivo
+git show
+
+git reset ###################### --harg / --soft
+git checkout ###################### archivo
+git checkout master archivo
+
+git rm --cached ###################### archivo #staging
+git rm --force ###################### archivo #staging y HD
+
+git reset HEAD # saca lo que hay es staging antes del commit
+
+
+git branch nombre #crea rama
+
+git checkout rama
+git merge rama
+
+
+
